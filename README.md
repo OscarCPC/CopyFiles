@@ -94,11 +94,9 @@ python Copyfiles.py
 4. Push to the branch
 5. Create a new Pull Request
 
-## License
+### Author
 
-[Your License Here]
-
-[Oscar González]
+Oscar González
 
 
 ## Changelog

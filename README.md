@@ -46,7 +46,7 @@ CopyFiles/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CopyFiles.git
+git clone https://github.com/OscarCPC/CopyFiles.git
 
 # Install dependencies
 pip install PyQt5
@@ -98,13 +98,8 @@ python Copyfiles.py
 
 [Your License Here]
 
-## Authors
+[Oscar González]
 
-[Your Name]
-
-## Screenshots
-
-[Add screenshots here]
 
 ## Changelog
 
